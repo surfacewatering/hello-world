@@ -1,5 +1,5 @@
 # hello-world
-Sample repository
+Sample repository of this profile.
 
 Hello, My name is Nikita Singh.
 
